@@ -5,3 +5,4 @@ export default interface DummyData {
     emoji: string;
    
   }
+  
